@@ -1,5 +1,7 @@
 # Etch-a-Sketch 🎨
 
+![image](https://github.com/user-attachments/assets/884af23d-c168-41a9-9e7c-120b717c6a7b)
+
 Welcome to the Etch-a-Sketch project! This project is part of Day 19 of the 100 Days of Code challenge by [Angela Yu](https://www.udemy.com/course/100-days-of-code/). It allows users to draw on the screen using keyboard controls.
 
 ## Table of Contents
